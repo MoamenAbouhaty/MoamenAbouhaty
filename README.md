@@ -42,6 +42,11 @@ I am an Embedded Systems & IoT Engineer specializing in building robust hardware
 ## 🏅 Certifications & Achievements
 * 📜 [C-Programming-Language](https://drive.google.com/file/d/1J92iCcRgp_4yBkjHsDSXMrBs-5QlBjse/view?usp=drive_link)
 * 📜 [Embedded-C](https://drive.google.com/file/d/1QE7ewW8N2dSrVLwnvkTHeucZngxBmjUx/view?usp=drive_link)
+* 📜 [Arduino Basics](https://drive.google.com/file/d/1wBIKDdDUCVf4auUj_PKoyrI-LQZ4lsBC/view?usp=drive_link)
+* 📜 [Raspberry Pi](https://drive.google.com/file/d/1r2Dfewx1HDGHS21mCtfDOmYgaFWlFc4Y/view?usp=drive_link)
+* 📜 [C++](https://drive.google.com/file/d/1xRhTNR7ryZ3N-9AiJiZrtZiaDs-StDGb/view?usp=drive_link)
+* 📜 [Python](https://drive.google.com/file/d/1OuRKGq3Pvb-cfv3CxYgJPUj-f2XL6_WW/view?usp=drive_link)
+* 📜 [Rust](https://drive.google.com/file/d/1-7eoGXCT0NOg6OSVOqRjHYcCkUYy9mp2/view?usp=drive_link)
 
 ---
 
