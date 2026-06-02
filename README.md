@@ -59,41 +59,53 @@ Passionate about designing reliable firmware, developing smart connected devices
 
 <table>
 <tr>
-<td width="50%">
 
-### 🎮 Simon Says Game
+<td width="50%" valign="top">
 
-Memory game built with Arduino using LEDs, push buttons, and buzzer.
+### 🎮 Simon Says
 
-**Technologies**
-- Arduino
-- Embedded C
-- GPIO
-- State Machine Design
+Hardware-software memory game built using **Arduino** and **Processing**. Players repeat an increasingly complex LED sequence using physical buttons while receiving visual and audio feedback.
 
-🔗 <a href="https://github.com/MoamenAbouhaty/Simon-Says">View Project</a>
+#### 🔹 Highlights
+- Arduino + Processing Integration
+- Serial Communication (9600 baud)
+- LED & Buzzer Control
+- Interactive GUI
+- Event-Driven Design
+- Real-Time Hardware Interaction
+
+#### 🛠️ Technologies
+Arduino • Embedded C • Processing • UART • GPIO
+
+🔗 Repository:  
+<a href="https://github.com/MoamenAbouhaty/Simon-Says">View Project</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Signal Shift LED
+
+Real-time audio visualizer that converts sound intensity into a dynamic LED level meter using differential signal analysis and enhanced ADC sensitivity.
+
+#### 🔹 Highlights
+- Audio Signal Processing
+- Differential Sound Detection
+- Internal ADC Reference (1.1V)
+- Real-Time LED Visualization
+- Low-Latency Response
+- Embedded Signal Analysis
+
+#### 🛠️ Technologies
+Arduino • Embedded C • ADC • Sensors • Signal Processing
+
+🔗 Repository:  
+<a href="https://github.com/MoamenAbouhaty/Signal-Shift-Led">View Project</a>
 
 </td>
 
-<td width="50%">
-
-### 💡 Signal Shift LED
-
-LED control system using shift registers to extend microcontroller outputs efficiently.
-
-**Technologies**
-- Arduino
-- 74HC595
-- Embedded C
-- Digital Electronics
-
-🔗 <a href="https://github.com/MoamenAbouhaty/Signal-Shift-Led">View Project</a>
-
-</td>
 </tr>
 </table>
-
----
 
 ---
 
