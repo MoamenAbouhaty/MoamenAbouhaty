@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> Hi there, I'm Moamen! 
+# Hi there, I'm Moamen! 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MoamenAbouhaty&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtic3Ntb3J0cXNidXN4N3M0OHV4b290OHp4cHBsZzR2b3N0ZWhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3orif7v5iSgMBb6GBy/giphy.gif" width="35px"> 🎛️ Embedded Systems & IoT Engineer | Hardware Innovator 🚀
+## 🎛️ Embedded Systems & IoT Engineer | Hardware Innovator 🚀
 
 <details open>
 <summary><b>🎯 Brief Overview (Click to collapse)</b></summary>
@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNjZnd1NXg4Zm90YmNidW95M3Z6ZXN6N2N3M3h4ZnR6Z3VndnN6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vN3f0gqG87Z8A/giphy.gif" width="30px"> 🛠️ Hardware & Software Stack
+## 🛠️ Hardware & Software Stack
 
 ### 💾 Microcontrollers & Development Boards
 <p align="left">
@@ -48,9 +48,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndpZnE4b3FkcDJuNDBvNms4Zndnbm80M2pwZzNpaXQ2ZzZpdDZwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3C7S6ZtZ6fyk036Uu/giphy.gif" width="30px"> 📡 Protocols & Connectivity
+## 📡 Protocols & Connectivity
 
-### 🔌 Communication Protocols
+## 🔌 Communication Protocols
 <p align="left">
   <img src="https://img.shields.io/badge/UART-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/SPI-FF6F00?style=flat-square" />
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/RS--485-607D8B?style=flat-square" />
 </p>
 
-### 🌐 IoT Technologies
+## 🌐 IoT Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/HTTP/S-005571?style=flat-square" />
@@ -73,7 +73,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI3Mmt4OHFkcXNmbnI3M3JmNXA1b3A1czh0ZThpY2x1ZXB4eHhzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/93lCI6D0gIEw4VshWf/giphy.gif" width="30px"> ⏱️ RTOS & Threading
+## ⏱️ RTOS & Threading
 
 <p align="left">
   <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge" />
@@ -89,7 +89,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmxwd3Iyc2RyeXB0b3FrNmdsc3hyZ3E0NW9jM3d6OHVtcWZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K37scS96bBMv6/giphy.gif" width="30px"> 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table border="0">
 <tr>
@@ -107,7 +107,7 @@ Hardware-software memory game built using **Arduino** and **Processing**. Player
 - Serial Communication (9600 baud)
 - Event-Driven Design & Real-Time Hardware Interaction
 
-#### 🛠️ Technologies
+## 🛠️ Technologies
 `Arduino` • `Embedded C` • `Processing` • `UART` • `GPIO`
 
 <p align="right">
@@ -130,7 +130,7 @@ Real-time audio visualizer that converts sound intensity into a dynamic LED leve
 - Differential Sound Detection
 - Internal ADC Reference (1.1V) & Low-Latency Response
 
-#### 🛠️ Technologies
+## 🛠️ Technologies
 `Arduino` • `Embedded C` • `ADC` • `Sensors` • `Signal Processing`
 
 <p align="right">
@@ -145,7 +145,7 @@ Real-time audio visualizer that converts sound intensity into a dynamic LED leve
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW01M3p1N3E0YzdyejBpeGtybzhpeWsyb3R2MnVyejRhcTI3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp9btEBsAsf8D6scSg/giphy.gif" width="30px"> 🔧 Technical Expertise
+## 🔧 Technical Expertise
 
 <details>
 <summary><b>🧠 Firmware Development (Click to expand)</b></summary>
@@ -180,7 +180,7 @@ Real-time audio visualizer that converts sound intensity into a dynamic LED leve
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlhc2V6ZnF0eWk0MDFrN2dnd213ZDdzOHB6bWw5aWZndnAzM3p6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8g72v8w6n9jW3Y9Hyl/giphy.gif" width="30px"> 🏅 Certifications & Achievements
+## 🏅 Certifications & Achievements
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1J92iCcRgp_4yBkjHsDSXMrBs-5QlBjse/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/C--Programming-00599C?style=flat-square&logo=c&logoColor=white" /></a>
@@ -194,7 +194,7 @@ Real-time audio visualizer that converts sound intensity into a dynamic LED leve
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zpc3MxdWlhN2ZpdW5uMnVyeXpnaHFlbW94bndtcGg4eXg1cHl0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcD36I3G2g6I6968B/giphy.gif" width="30px"> 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-elsayed-abouhaty/">
