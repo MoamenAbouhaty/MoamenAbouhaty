@@ -6,7 +6,7 @@
 
 ---
 
-## 🎛️ Embedded Systems & IoT Engineer | Hardware Innovator 🚀
+## 🎛️ Embedded Systems & IoT Developer | Hardware Innovator 🚀
 
 <details open>
 <summary><b>🎯 Brief Overview (Click to collapse)</b></summary>
