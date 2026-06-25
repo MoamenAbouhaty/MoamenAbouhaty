@@ -124,31 +124,31 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 ---
 
-## 🏅 Badges
+## 🔹 Badges
 
 <div align="center">
 
-<img src="assets/badges/c-essentials-1.png" width="150" height="150" alt="Embedded Systems" style="margin:8px;" />
-<img src="assets/badges/python-essentials-1.png" width="150" height="150" alt="IoT" style="margin:8px;" />
-<img src="assets/badges/digital-awareness.png" width="150" height="150" alt="RTOS" style="margin:8px;" />
-<img src="assets/badges/english-for-it-advice-and-time.png" width="150" height="150" alt="PCB Design" style="margin:8px;" />
-<img src="assets/badges/introduction-to-iot.png" width="150" height="150" alt="Git & GitHub" style="margin:8px;" />
-<img src="assets/badges/using-computer-and-mobile-devices.png" width="150" height="150" alt="Low Power Systems" style="margin:8px;" />
+<img src="assets/badges/c-essentials-1.png" width="120" height="120" alt="Embedded Systems" style="margin:6px;" />
+<img src="assets/badges/python-essentials-1.png" width="120" height="120" alt="IoT" style="margin:6px;" />
+<img src="assets/badges/digital-awareness.png" width="120" height="120" alt="RTOS" style="margin:6px;" />
+<img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="PCB Design" style="margin:6px;" />
+<img src="assets/badges/introduction-to-iot.png" width="120" height="120" alt="Git & GitHub" style="margin:6px;" />
+<img src="assets/badges/using-computer-and-mobile-devices.png" width="120" height="120" alt="Low Power Systems" style="margin:6px;" />
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 🔹 Certifications
 
 <div align="center">
 
-<img src="assets/certificates/CEssentials1.jpg" alt="C Essentials Certificate" width="70%" style="margin:12px 0;" />
-<img src="assets/certificates/PythonEssentials1.jpg" alt="Python Essentials Certificate" width="70%" style="margin:12px 0;" />
-<img src="assets/certificates/IntrotoIoT.jpg" alt="Introduction to IoT Certificate" width="70%" style="margin:12px 0;" />
-<img src="assets/certificates/UsingComputersandMobileDevices.jpg" alt="Using Computers and Mobile Devices Certificate" width="70%" style="margin:12px 0;" />
-<img src="assets/certificates/DigitalAwareness.jpg" alt="Digital Awareness Certificate" width="70%" style="margin:12px 0;" />
-<img src="assets/certificates/EnglishforITAdviceandTime.jpg" alt="English for IT Certificate" width="70%" style="margin:12px 0;" />
+<img src="assets/certificates/CEssentials1.jpg" alt="C Essentials Certificate" width="55%" style="margin:8px 0;" />
+<img src="assets/certificates/PythonEssentials1.jpg" alt="Python Essentials Certificate" width="55%" style="margin:8px 0;" />
+<img src="assets/certificates/IntrotoIoT.jpg" alt="Introduction to IoT Certificate" width="55%" style="margin:8px 0;" />
+<img src="assets/certificates/UsingComputersandMobileDevices.jpg" alt="Using Computers and Mobile Devices Certificate" width="55%" style="margin:8px 0;" />
+<img src="assets/certificates/DigitalAwareness.jpg" alt="Digital Awareness Certificate" width="55%" style="margin:8px 0;" />
+<img src="assets/certificates/EnglishforITAdviceandTime.jpg" alt="English for IT Certificate" width="55%" style="margin:8px 0;" />
 
 </div>
 
