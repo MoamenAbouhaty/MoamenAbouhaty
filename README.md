@@ -21,39 +21,6 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stats + Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=moamen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="160"
-  style="margin:6px;"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamen&layout=compact&theme=tokyonight&hide_border=true"
-  height="160"
-  style="margin:6px;"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=moamen&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</div>
-
----
-
 ## 💻 Programming Languages
 
 > Languages used in embedded systems, firmware development, and IoT applications.
