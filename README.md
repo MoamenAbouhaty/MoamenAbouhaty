@@ -115,11 +115,6 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 ## 🔌 Microcontrollers & Embedded Platforms
 
-<!-- Replace with actual image: assets/microcontrollers.png -->
-<div align="center">
-<img src="assets/sections/microcontroller_PNG24.png" alt="Microcontrollers" width="40%" />
-</div>
-
 ### AVR Family
 - **ATmega328P / ATmega2560** — Arduino Uno / Mega core MCUs
 - **ATtiny85 / ATtiny13** — Compact, low-power solutions
@@ -191,11 +186,6 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 ## 🛠️ Hardware & Development Tools
 
-<!-- Replace with actual image: assets/tools.png -->
-<div align="center">
-<img src="assets/sections/visual-studio-code-logo-rounded-free-png.webp" alt="Tools" width="40%" />
-</div>
-
 ### Debuggers & Programmers
 - **ST-LINK V2 / V3** — STM32 on-chip debugger/programmer
 - **J-Link / J-Trace** — SEGGER multi-core ARM debugger
@@ -219,11 +209,6 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 ---
 
 ## 📡 Communication Protocols
-
-<!-- Replace with actual image: assets/protocols.png -->
-<div align="center">
-  <img src="assets/sections/IoT-device.jpg" alt="Communication Protocols" width="40%" />
-</div>
 
 ### Wired Protocols (Hardware Layer)
 | Protocol | Speed | Use Case |
@@ -255,11 +240,6 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 ---
 
 ## 🖥️ Programming & Development Environments (IDEs)
-
-<!-- Replace with actual image: assets/ides.png -->
-<div align="center">
-<img src="assets/sections/Arduino-Set-Up-Windowide.png" alt="IDEs" width="40%" />
-</div>
 
 ### Embedded-Specific IDEs
 - **Arduino IDE 2.x** — Rapid AVR/ESP prototyping with board manager
@@ -325,11 +305,6 @@ Home Assistant → Open-source smart home platform
 
 ## 🌐 IoT Cloud Platforms & Services
 
-<!-- Replace with actual image: assets/cloud.png -->
-<div align="center">
-<img src="assets/cloud.png" alt="Cloud Platforms" width="75%" />
-</div>
-
 | Platform | Services Used |
 |----------|--------------|
 | **AWS IoT Core** | Device Shadow, Rules Engine, Greengrass |
@@ -354,32 +329,6 @@ Home Assistant → Open-source smart home platform
 📐 PCB Design                → 4-layer boards, impedance control, EMC compliance
 🧪 Unit Testing              → Unity, CppUTest, Ceedling for embedded C
 📊 Signal Processing         → ADC filtering, FFT on Cortex-M with CMSIS-DSP
-```
-
----
-
-## 📁 Project Structure (Standard Template)
-
-```
-project/
-├── assets/                  ← Images used in README
-│   ├── banner.png
-│   ├── microcontrollers.png
-│   ├── protocols.png
-│   └── certifications.png
-├── Core/
-│   ├── Src/                 ← Application source files
-│   └── Inc/                 ← Application header files
-├── Drivers/
-│   ├── BSP/                 ← Board Support Package
-│   ├── HAL/                 ← Hardware Abstraction Layer
-│   └── Middleware/          ← RTOS, USB, LwIP stacks
-├── Bootloader/              ← Custom / MCUboot bootloader
-├── Tests/                   ← Unit & integration tests
-├── Docs/                    ← Datasheets, schematics, block diagrams
-├── CMakeLists.txt           ← Build system entry point
-├── .github/workflows/       ← CI/CD pipelines
-└── README.md
 ```
 
 ---
