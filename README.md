@@ -115,9 +115,9 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 <img src="assets/badges/c-essentials-1.png" width="120" height="120" alt="C Essentials" style="margin:6px;" />
 <img src="assets/badges/python-essentials-1.png" width="120" height="120" alt="Python Essentials" style="margin:6px;" />
 <img src="assets/badges/digital-awareness.png" width="120" height="120" alt="Digital Awareness" style="margin:6px;" />
-<img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
 <img src="assets/badges/introduction-to-iot.png" width="120" height="120" alt="Introduction to IoT" style="margin:6px;" />
 <img src="assets/badges/using-computer-and-mobile-devices.png" width="120" height="120" alt="Using Computers and Mobile Devices" style="margin:6px;" />
+<img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
 
 </div>
 
