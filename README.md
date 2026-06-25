@@ -19,6 +19,26 @@
 
 I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in designing, developing, and deploying firmware for microcontrollers, real-time operating systems, and connected devices. I bridge the gap between hardware and software — from schematic design and PCB layout to cloud-connected IoT architectures. I thrive in low-level environments, optimizing performance under tight memory and power constraints.
 
+
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MoamenAbouhaty&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MoamenAbouhaty&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MoamenAbouhaty&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MoamenAbouhaty&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MoamenAbouhaty&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ---
 
 ## 💻 Programming Languages
