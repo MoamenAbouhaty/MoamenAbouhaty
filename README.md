@@ -117,7 +117,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/microcontrollers.png -->
 <div align="center">
-<img src="assets/microcontrollers.png" alt="Microcontrollers" width="80%" />
+<img src="assets/sections/microcontrollers.jpg" alt="Microcontrollers" width="80%" />
 </div>
 
 ### AVR Family
@@ -193,7 +193,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/tools.png -->
 <div align="center">
-<img src="assets/tools.png" alt="Tools" width="80%" />
+<img src="assets/sections/images.jpg" alt="Tools" width="80%" />
 </div>
 
 ### Debuggers & Programmers
@@ -222,7 +222,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/protocols.png -->
 <div align="center">
-<img src="assets/protocols.png" alt="Communication Protocols" width="80%" />
+<img src="assets/sections/IoT-device.jpg" alt="Communication Protocols" width="80%" />
 </div>
 
 ### Wired Protocols (Hardware Layer)
