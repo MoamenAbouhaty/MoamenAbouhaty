@@ -117,7 +117,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/microcontrollers.png -->
 <div align="center">
-<img src="assets/sections/microcontrollers.jpg" alt="Microcontrollers" width="80%" />
+<img src="assets/sections/microcontroller_PNG24.png" alt="Microcontrollers" width="40%" />
 </div>
 
 ### AVR Family
@@ -193,7 +193,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/tools.png -->
 <div align="center">
-<img src="assets/sections/images.jpg" alt="Tools" width="40%" />
+<img src="assets/sections/visual-studio-code-logo-rounded-free-png.webp" alt="Tools" width="40%" />
 </div>
 
 ### Debuggers & Programmers
@@ -258,7 +258,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/ides.png -->
 <div align="center">
-<img src="assets/sections/arduino.png" alt="IDEs" width="40%" />
+<img src="assets/sections/Arduino-Set-Up-Windowide.png" alt="IDEs" width="40%" />
 </div>
 
 ### Embedded-Specific IDEs
