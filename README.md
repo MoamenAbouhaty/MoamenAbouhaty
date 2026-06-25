@@ -143,12 +143,15 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <div align="center">
 
-<img src="assets/certificates/CEssentials1.jpg" alt="C Essentials Certificate" width="55%" style="margin:8px 0;" />
-<img src="assets/certificates/PythonEssentials1.jpg" alt="Python Essentials Certificate" width="55%" style="margin:8px 0;" />
-<img src="assets/certificates/IntrotoIoT.jpg" alt="Introduction to IoT Certificate" width="55%" style="margin:8px 0;" />
-<img src="assets/certificates/UsingComputersandMobileDevices.jpg" alt="Using Computers and Mobile Devices Certificate" width="55%" style="margin:8px 0;" />
-<img src="assets/certificates/DigitalAwareness.jpg" alt="Digital Awareness Certificate" width="55%" style="margin:8px 0;" />
-<img src="assets/certificates/EnglishforITAdviceandTime.jpg" alt="English for IT Certificate" width="55%" style="margin:8px 0;" />
+<img src="assets/certificates/CEssentials1.jpg" alt="C Essentials Certificate" width="30%" style="margin:6px;" />
+<img src="assets/certificates/PythonEssentials1.jpg" alt="Python Essentials Certificate" width="30%" style="margin:6px;" />
+<img src="assets/certificates/IntrotoIoT.jpg" alt="Introduction to IoT Certificate" width="30%" style="margin:6px;" />
+
+<br/>
+
+<img src="assets/certificates/UsingComputersandMobileDevices.jpg" alt="Using Computers and Mobile Devices Certificate" width="30%" style="margin:6px;" />
+<img src="assets/certificates/DigitalAwareness.jpg" alt="Digital Awareness Certificate" width="30%" style="margin:6px;" />
+<img src="assets/certificates/EnglishforITAdviceandTime.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
 
 </div>
 
