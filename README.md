@@ -193,7 +193,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/tools.png -->
 <div align="center">
-<img src="assets/sections/images.jpg" alt="Tools" width="80%" />
+<img src="assets/sections/images.jpg" alt="Tools" width="40%" />
 </div>
 
 ### Debuggers & Programmers
@@ -222,7 +222,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/protocols.png -->
 <div align="center">
-<img src="assets/sections/IoT-device.jpg" alt="Communication Protocols" width="80%" />
+  <img src="assets/sections/IoT-device.jpg" alt="Communication Protocols" width="40%" />
 </div>
 
 ### Wired Protocols (Hardware Layer)
@@ -258,7 +258,7 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 <!-- Replace with actual image: assets/ides.png -->
 <div align="center">
-<img src="assets/ides.png" alt="IDEs" width="80%" />
+<img src="assets/sections/arduino.png" alt="IDEs" width="40%" />
 </div>
 
 ### Embedded-Specific IDEs
