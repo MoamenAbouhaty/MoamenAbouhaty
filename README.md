@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- BANNER IMAGE — place your banner in assets/banner.png -->
-<img src="assets/hero/hero.jpg" alt="Moamen Banner" width="100%" />
+<!-- BANNER IMAGE -->
+<img
+  src="assets/hero/hero.jpg"
+  alt="Moamen Banner"
+  width="1280"
+  height="720"
+  style="max-width:100%; height:auto;"
+/>
 
 # Hi There 👋 I'm Moamen
 
@@ -161,12 +167,12 @@ I am a passionate **Embedded Systems & IoT Engineer** with deep expertise in des
 
 | # | Certification | Issuer | Year |
 |---|--------------|--------|------|
-| 1 | C Programming Essentials | Cisco Networking Academy | 2023 |
-| 2 | Python Programming Essentials | Cisco Networking Academy | 2023 |
-| 3 | Introduction to IoT | Cisco Networking Academy | 2024 |
-| 4 | Using Computers & Mobile Devices | Cisco Networking Academy | 2024 |
-| 5 | Digital Awareness | Cisco Networking Academy | 2024 |
-| 6 | English for IT: Advice & Time Management | Cisco Networking Academy | 2024 |
+| 1 | C Programming Essentials | Cisco Networking Academy | 2026 |
+| 2 | Python Programming Essentials | Cisco Networking Academy | 2026 |
+| 3 | Introduction to IoT | Cisco Networking Academy | 2026 |
+| 4 | Using Computers & Mobile Devices | Cisco Networking Academy | 2026 |
+| 5 | Digital Awareness | Cisco Networking Academy | 2026 |
+| 6 | English for IT: Advice & Time Management | Cisco Networking Academy | 2026 |
 
 > 📌 *Full-resolution certificates are available upon request or via LinkedIn.*
 ---
