@@ -1,13 +1,6 @@
 <div align="center">
 
-<!-- BANNER IMAGE -->
-<img
-  src="assets/hero/hero.jpg"
-  alt="Moamen Banner"
-  width="1280"
-  height="720"
-  style="max-width:100%; height:auto;"
-/>
+
 
 # Hi There 👋 I'm Moamen
 
