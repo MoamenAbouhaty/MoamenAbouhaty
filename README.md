@@ -11,45 +11,6 @@
   />
 </p>
 
-<p align="center">
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Proton Mail -->
-  <a href="mailto:yourname@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/201234567890">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=moamen&color=00f7ff&style=flat-square&label=Profile+Views" alt="profile views" />
 
 </div>
@@ -335,16 +296,44 @@ Home Assistant → Open-source smart home platform
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | moamen@example.com |
-| 💼 LinkedIn | linkedin.com/in/moamen |
-| 🐙 GitHub | github.com/moamen |
-| 🌍 Portfolio | moamen.dev |
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
-</div>
+  <!-- GitHub -->
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Proton Mail -->
+  <a href="mailto:yourname@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201234567890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/USERNAME">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
