@@ -7,7 +7,18 @@
 ### 🔧 Embedded Systems Engineer & IoT Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+Developer+%26+Architect;Firmware+%26+RTOS+Specialist;PCB+Design+%26+Hardware+Integration" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=24
+    &pause=1200
+    &color=2F81F7
+    &center=true
+    &vCenter=true
+    &width=520
+    &lines=Embedded+Systems+%26+IoT+Engineer" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
