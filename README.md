@@ -266,39 +266,39 @@ Home Assistant → Open-source smart home platform
 <p align="center">
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/USERNAME">
+  <!-- <a href="https://www.facebook.com/USERNAME">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  </a> -->
 
   <!-- GitHub -->
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/MoamenAbouhaty">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:yourname@gmail.com">
+  <a href="mailto:mabouhaty@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/momen-elsayed-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- Proton Mail -->
-  <a href="mailto:yourname@proton.me">
+  <!-- <a href="mailto:yourname@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
+  </a> -->
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/201234567890">
+  <a href="https://wa.me/201091871967">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <!-- X (Twitter) -->
+  <!-- X (Twitter)
   <a href="https://x.com/USERNAME">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  </a> -->
 
 </p>
 
