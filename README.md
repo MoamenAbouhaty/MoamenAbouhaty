@@ -108,59 +108,79 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 
 ---
 
-## 🔹 Badges
+## 🔹 Badges (Ordered)
 
 <div align="center">
 
+<!-- Fundamentals -->
+<img src="assets/badges/using-computer-and-mobile-devices.png" width="120" height="120" alt="Using Computers and Mobile Devices" style="margin:6px;" />
+<img src="assets/badges/digital-awareness.png" width="120" height="120" alt="Digital Awareness" style="margin:6px;" />
+<img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
+
+<!-- Programming -->
 <img src="assets/badges/c-essentials-1.png" width="120" height="120" alt="C Essentials" style="margin:6px;" />
 <img src="assets/badges/python-essentials-1.png" width="120" height="120" alt="Python Essentials" style="margin:6px;" />
-<img src="assets/badges/digital-awareness.png" width="120" height="120" alt="Digital Awareness" style="margin:6px;" />
+
+<!-- Embedded / IoT -->
 <img src="assets/badges/introduction-to-iot.png" width="120" height="120" alt="Introduction to IoT" style="margin:6px;" />
-<img src="assets/badges/using-computer-and-mobile-devices.png" width="120" height="120" alt="Using Computers and Mobile Devices" style="margin:6px;" />
-<img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
 
 </div>
 
 ---
 
-## 🔹 Certifications
+## 🔹 Certifications (Ordered)
 
 <div align="center">
 
-<img src="assets/certificates/CEssentials1.jpg" alt="C Essentials Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/PythonEssentials1.jpg" alt="Python Essentials Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/IntrotoIoT.jpg" alt="Introduction to IoT Certificate" width="30%" style="margin:6px;" />
+<!-- Fundamentals -->
+<img src="assets/certificates/UsingComputersandMobileDevices.jpg" width="30%" style="margin:6px;" />
+<img src="assets/certificates/DigitalAwareness.jpg" width="30%" style="margin:6px;" />
+<img src="assets/certificates/EnglishforITAdviceandTime.jpg" width="30%" style="margin:6px;" />
 
 <br/>
 
-<img src="assets/certificates/UsingComputersandMobileDevices.jpg" alt="Using Computers and Mobile Devices Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/DigitalAwareness.jpg" alt="Digital Awareness Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/EnglishforITAdviceandTime.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
+<!-- Programming -->
+<img src="assets/certificates/CEssentials1.jpg" width="30%" style="margin:6px;" />
+<img src="assets/certificates/PythonEssentials1.jpg" width="30%" style="margin:6px;" />
+<img src="assets/certificates/C Programming From Basics to Mastery.jpg" width="30%" style="margin:6px;" />
 
-<img src="assets/certificates/Git-Github-freecodecamp-ibm.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/C Programming From Basics to Mastery.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/Embedded C Hardware Essentials and Device Driver Development.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/arduino.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/rust.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/github.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
+<br/>
+
+<!-- Embedded / IoT -->
+<img src="assets/certificates/IntrotoIoT.jpg" width="30%" style="margin:6px;" />
+<img src="assets/certificates/Embedded C Hardware Essentials and Device Driver Development.jpg" width="30%" style="margin:6px;" />
+<img src="assets/certificates/arduino.jpg" width="30%" style="margin:6px;" />
+
+<br/>
+
+<!-- Tools -->
+<img src="assets/certificates/Git-Github-freecodecamp-ibm.jpg" width="30%" style="margin:6px;" />
+<img src="assets/certificates/github.jpg" width="30%" style="margin:6px;" />
+
+<br/>
+
+<!-- Systems Programming -->
+<img src="assets/certificates/rust.jpg" width="30%" style="margin:6px;" />
 
 </div>
 
 ---
 
-### 📋 Certifications Summary
+## 📋 Certifications Summary
 
 | # | Certification | Issuer | Year |
 |---|--------------|--------|------|
-| 1 | C Programming Essentials | Cisco Networking Academy | 2026 |
-| 2 | Python Programming Essentials | Cisco Networking Academy | 2026 |
-| 3 | Introduction to IoT | Cisco Networking Academy | 2026 |
-| 4 | Using Computers & Mobile Devices | Cisco Networking Academy | 2026 |
-| 5 | Digital Awareness | Cisco Networking Academy | 2026 |
-| 6 | English for IT: Advice & Time Management | Cisco Networking Academy | 2026 |
-| 7 | Git and GitHub for Beginners | IBMSkills | 2026 |
-
-> 📌 *Full-resolution certificates are available upon request or via LinkedIn.*
+| 1 | Using Computers & Mobile Devices | Cisco Networking Academy | 2026 |
+| 2 | Digital Awareness | Cisco Networking Academy | 2026 |
+| 3 | English for IT: Advice & Time Management | Cisco Networking Academy | 2026 |
+| 4 | C Programming Essentials | Cisco Networking Academy | 2026 |
+| 5 | Python Programming Essentials | Cisco Networking Academy | 2026 |
+| 6 | C Programming: From Basics to Mastery | — | 2026 |
+| 7 | Introduction to IoT | Cisco Networking Academy | 2026 |
+| 8 | Embedded C: Hardware & Device Drivers | — | 2025 |
+| 9 | Arduino Programming | — | 2025 |
+|10 | Git & GitHub for Beginners | IBM / freeCodeCamp | 2026 |
+|11 | Rust Programming | — | 2025 |
 
 ---
 
