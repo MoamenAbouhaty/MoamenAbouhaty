@@ -140,9 +140,9 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 <br/>
 
 <img src="assets/certificates/Git-Github.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/arduino_basics.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/C Programming From Basics to Mastery.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/Embedded C Hardware Essentials and Device Driver Development.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
+<img src="assets/certificates/arduino_basics.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
 
 </div>
 
