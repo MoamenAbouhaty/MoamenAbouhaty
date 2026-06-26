@@ -136,6 +136,7 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 <img src="assets/certificates/UsingComputersandMobileDevices.jpg" alt="Using Computers and Mobile Devices Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/DigitalAwareness.jpg" alt="Digital Awareness Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/EnglishforITAdviceandTime.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
+<img src="assets/certificates/git.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
 
 </div>
 
@@ -151,6 +152,7 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 | 4 | Using Computers & Mobile Devices | Cisco Networking Academy | 2026 |
 | 5 | Digital Awareness | Cisco Networking Academy | 2026 |
 | 6 | English for IT: Advice & Time Management | Cisco Networking Academy | 2026 |
+| 7 | Git and GitHub for Beginners | IBMSkills | 2026 |
 
 > 📌 *Full-resolution certificates are available upon request or via LinkedIn.*
 
