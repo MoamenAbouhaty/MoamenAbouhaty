@@ -130,6 +130,7 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 <img src="assets/certificates/CEssentials1.jpg" alt="C Essentials Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/PythonEssentials1.jpg" alt="Python Essentials Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/IntrotoIoT.jpg" alt="Introduction to IoT Certificate" width="30%" style="margin:6px;" />
+<img src="assets/certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
 
 <br/>
 
@@ -163,6 +164,7 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 | 9 | Arduino Programming | — | 2026 |
 |10 | Git & GitHub for Beginners | IBM / freeCodeCamp | 2026 |
 |11 | Rust Programming | — | 2026 |
+|11 | Getting_Started_with_Cisco_Packet_Tracer | Cisco Networking Academy | 2026 |
 ---
 
 ## 🤝 Connect With Me
