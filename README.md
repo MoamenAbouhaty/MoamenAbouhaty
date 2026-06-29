@@ -158,12 +158,12 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 | 3 | English for IT: Advice & Time Management | Cisco Networking Academy | 2026 |
 | 4 | C Programming Essentials | Cisco Networking Academy | 2026 |
 | 5 | Python Programming Essentials | Cisco Networking Academy | 2026 |
-| 6 | C Programming: From Basics to Mastery | — | 2026 |
+| 6 | C Programming: From Basics to Mastery | Mahara-Tech | 2026 |
 | 7 | Introduction to IoT | Cisco Networking Academy | 2026 |
-| 8 | Embedded C: Hardware & Device Drivers | — | 2026 |
-| 9 | Arduino Programming | — | 2026 |
+| 8 | Embedded C: Hardware & Device Drivers | Mahara-Tech | 2026 |
+| 9 | Arduino Basics | M3aarf | 2026 |
 |10 | Git & GitHub for Beginners | IBM / freeCodeCamp | 2026 |
-|11 | Rust Programming | — | 2026 |
+|11 | Rust Programming | M3aarf | 2026 |
 |11 | Getting_Started_with_Cisco_Packet_Tracer | Cisco Networking Academy | 2026 |
 ---
 
