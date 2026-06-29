@@ -118,6 +118,7 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 <img src="assets/badges/introduction-to-iot.png" width="120" height="120" alt="Introduction to IoT" style="margin:6px;" />
 <img src="assets/badges/using-computer-and-mobile-devices.png" width="120" height="120" alt="Using Computers and Mobile Devices" style="margin:6px;" />
 <img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
+<img src="assets/certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
 
 </div>
 
@@ -130,7 +131,6 @@ I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware d
 <img src="assets/certificates/CEssentials1.jpg" alt="C Essentials Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/PythonEssentials1.jpg" alt="Python Essentials Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/IntrotoIoT.jpg" alt="Introduction to IoT Certificate" width="30%" style="margin:6px;" />
-<img src="assets/certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
 
 <br/>
 
