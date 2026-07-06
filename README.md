@@ -15,7 +15,7 @@
 
 ---
 
-I am a passionate **Embedded Systems & IoT Engineer** specializing in firmware design and development for microcontrollers, real-time operating systems, and connected devices — bridging the gap between hardware and software, from PCB design all the way to cloud-connected IoT architectures.
+I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specializing in building scalable backend applications, designing RESTful APIs, and developing firmware solutions for microcontrollers and connected devices. I work across the full technology stack — from low-level embedded programming and real-time systems to backend architectures, databases, and cloud-connected IoT platforms — bridging the gap between hardware and software.
 
 ---
 
