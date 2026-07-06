@@ -151,6 +151,7 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 <img src="assets/certificates/Web-Development-Fundamentals1.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
 <img src="assets/certificates/Nodejs.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
 <img src="assets/certificates/Mastering-TypeScript.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
+<img src="assets/certificates/git-github-udemy.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
 
 </div>
 
@@ -173,8 +174,9 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 |11 | Rust Programming | M3aarf | 2026 |
 |11 | Getting_Started_with_Cisco_Packet_Tracer | Cisco Networking Academy | 2026 |
 |12 | Web-Development-Fundamentals | IBM | 2026 |
-|13 | Node.js Bootcamp | Udemy | 2026 |
-|14 | Mastering TypeScript | Udemy | 2026 |
+|13 | Node.js Bootcamp | Udemy | 2025 |
+|14 | Mastering TypeScript | Udemy | 2025 |
+|15 | Git And Github | Udemy | 2025 |
 ---
 
 ## 🤝 Connect With Me
