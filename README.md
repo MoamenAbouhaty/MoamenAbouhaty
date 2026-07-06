@@ -148,6 +148,7 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 <img src="assets/certificates/rust.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/github.jpg" alt="English for IT Certificate" width="30%" style="margin:6px;" />
 <img src="assets/certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
+<img src="assets/certificates/Web-Development-Fundamentals.jpg" alt="Getting_Started_with_Cisco_Packet_Tracer" width="30%" style="margin:6px;" />
 
 </div>
 
