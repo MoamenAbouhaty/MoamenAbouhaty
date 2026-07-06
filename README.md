@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+%26+IoT+Engineer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Back-End+Engineer;Node.js+%7C+TypeScript+%7C+MongoDB;Embedded+Systems+%26+IoT+Engineer" 
     alt="Typing SVG" 
   />
 </p>
