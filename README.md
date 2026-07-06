@@ -43,13 +43,16 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 
 | Language | Use Case | Level |
 |----------|----------|-------|
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) **C** | Bare-metal firmware, drivers, RTOS | ⭐⭐⭐⭐⭐ |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | Arduino framework, OOP firmware | ⭐⭐⭐⭐⭐ |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Scripting, automation, Raspberry Pi | ⭐⭐⭐⭐ |
-| ![MicroPython](https://img.shields.io/badge/MicroPython-2C2D72?style=flat-square&logo=micropython&logoColor=white) **MicroPython** | Rapid IoT prototyping on ESP32/RP2040 | ⭐⭐⭐⭐ |
-| ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) **Assembly (ARM/AVR)** | Bootloaders, ISR optimization | ⭐⭐⭐ |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) **Rust** | Safe bare-metal on Cortex-M | ⭐⭐⭐ |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) **Bash** | Build automation, CI/CD scripts | ⭐⭐⭐⭐ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Backend development, Node.js, REST APIs, asynchronous programming | ⭐⭐⭐⭐⭐ |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript** | Scalable backend applications, API development, type-safe systems | ⭐⭐⭐⭐⭐ |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) **C** | Embedded firmware, bare-metal programming, device drivers, RTOS | ⭐⭐⭐⭐⭐ |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | Arduino development, embedded OOP, performance-critical systems | ⭐⭐⭐⭐⭐ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Automation, scripting, backend tools, Raspberry Pi, IoT applications | ⭐⭐⭐⭐ |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL** | Database design, queries, data management | ⭐⭐⭐⭐ |
+| ![MicroPython](https://img.shields.io/badge/MicroPython-2C2D72?style=flat-square&logo=micropython&logoColor=white) **MicroPython** | IoT prototyping, ESP32, RP2040 development | ⭐⭐⭐⭐ |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) **Rust** | Safe systems programming, embedded development, performance-focused applications | ⭐⭐⭐ |
+| ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) **Assembly (ARM/AVR)** | Low-level optimization, interrupts, bootloaders | ⭐⭐⭐ |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) **Bash** | Linux automation, build systems, CI/CD scripts | ⭐⭐⭐⭐ |
 
 ---
 
@@ -118,6 +121,8 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 <img src="assets/badges/introduction-to-iot.png" width="120" height="120" alt="Introduction to IoT" style="margin:6px;" />
 <img src="assets/badges/using-computer-and-mobile-devices.png" width="120" height="120" alt="Using Computers and Mobile Devices" style="margin:6px;" />
 <img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
+<img src="assets/badges/backend-engineer-learning-path.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
+<img src="assets/badges/web-development-fundamentals.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
 
 </div>
 
