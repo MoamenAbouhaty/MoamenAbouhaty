@@ -121,7 +121,7 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 <img src="assets/badges/introduction-to-iot.png" width="120" height="120" alt="Introduction to IoT" style="margin:6px;" />
 <img src="assets/badges/using-computer-and-mobile-devices.png" width="120" height="120" alt="Using Computers and Mobile Devices" style="margin:6px;" />
 <img src="assets/badges/english-for-it-advice-and-time.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
-<img src="assets/badges/backend-engineer-learning-path.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
+<img src="assets/badges/backend-engineer-learning-path1.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
 <img src="assets/badges/web-development-fundamentals.png" width="120" height="120" alt="English for IT" style="margin:6px;" />
 
 </div>
