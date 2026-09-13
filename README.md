@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Back-End+Engineer;Node.js+%7C+TypeScript+%7C+MongoDB;Embedded+Systems+%26+IoT+Engineer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Back-End+Engineer;Node.js+%7C+TypeScript+%7C+MongoDB" 
     alt="Typing SVG" 
   />
 </p>
@@ -15,98 +15,109 @@
 
 ---
 
-I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specializing in building scalable backend applications, designing RESTful APIs, and developing firmware solutions for microcontrollers and connected devices. I work across the full technology stack — from low-level embedded programming and real-time systems to backend architectures, databases, and cloud-connected IoT platforms — bridging the gap between hardware and software.
+I am a passionate **Back-End Engineer** specializing in building scalable backend applications, designing RESTful APIs, developing server-side systems, and working with databases and modern backend technologies. My primary focus is **Node.js backend development**, with experience in JavaScript, TypeScript, REST APIs, authentication, databases, and backend architecture.
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=MoamenAbouhaty&theme=aura&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=MoamenAbouhaty&theme=aura&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MoamenAbouhaty&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=MoamenAbouhaty\&theme=aura\&hide_border=false\&include_all_commits=true\&count_private=false)
+![](https://streak-stats.demolab.com/?user=MoamenAbouhaty\&theme=aura\&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MoamenAbouhaty\&theme=aura\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MoamenAbouhaty&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MoamenAbouhaty\&theme=shadow_red\&no-frame=false\&no-bg=false\&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=merko)
 
 ### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=MoamenAbouhaty&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MoamenAbouhaty\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
 ## 💻 Programming Languages
 
-| Language | Use Case | Level |
-|----------|----------|-------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Backend development, Node.js, REST APIs, asynchronous programming | ⭐⭐⭐⭐⭐ |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript** | Scalable backend applications, API development, type-safe systems | ⭐⭐⭐⭐⭐ |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) **C** | Embedded firmware, bare-metal programming, device drivers, RTOS | ⭐⭐⭐⭐⭐ |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | Arduino development, embedded OOP, performance-critical systems | ⭐⭐⭐⭐⭐ |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Automation, scripting, backend tools, Raspberry Pi, IoT applications | ⭐⭐⭐⭐ |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL** | Database design, queries, data management | ⭐⭐⭐⭐ |
-| ![MicroPython](https://img.shields.io/badge/MicroPython-2C2D72?style=flat-square&logo=micropython&logoColor=white) **MicroPython** | IoT prototyping, ESP32, RP2040 development | ⭐⭐⭐⭐ |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) **Rust** | Safe systems programming, embedded development, performance-focused applications | ⭐⭐⭐ |
-| ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) **Assembly (ARM/AVR)** | Low-level optimization, interrupts, bootloaders | ⭐⭐⭐ |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) **Bash** | Linux automation, build systems, CI/CD scripts | ⭐⭐⭐⭐ |
+| Language                                                                                                                         | Use Case                                                          | Level |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) **JavaScript** | Backend development, Node.js, REST APIs, asynchronous programming | ⭐⭐⭐⭐⭐ |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white) **TypeScript** | Scalable backend applications, API development, type-safe systems | ⭐⭐⭐⭐⭐ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) **Python**                 | Automation, scripting, backend tools, data processing             | ⭐⭐⭐⭐  |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white) **SQL**                      | Database design, queries, data management                         | ⭐⭐⭐⭐  |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white) **C++**                       | Programming fundamentals and performance-focused applications     | ⭐⭐⭐   |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white) **Rust**                         | Systems programming and performance-focused applications          | ⭐⭐⭐   |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white) **Bash**                      | Linux automation, build systems, CI/CD scripts                    | ⭐⭐⭐⭐  |
 
 ---
 
-## 🔌 Embedded Platforms
+## 🚀 Backend Development
 
-| Family | Boards / MCUs |
-|--------|--------------|
-| **AVR** | ATmega328P / ATmega2560, ATtiny85 / ATtiny13 |
-| **ARM Cortex-M** | STM32 (F0 / F1 / F4 / F7 / H7 / L4), NXP LPC1768, RP2040 |
-| **Espressif** | ESP8266, ESP32 / ESP32-S3 / ESP32-C3 (ESP-IDF) |
-| **Other** | Raspberry Pi 4 / Pi Zero, PIC16F / PIC18F, MSP430, NVIDIA Jetson Nano |
-
----
-
-## 📡 Communication Protocols
-
-| Layer | Protocols |
-|-------|-----------|
-| **Wired** | UART, SPI, I²C, CAN / CAN FD, RS-232 / RS-485, USB (CDC/HID/MSC), Ethernet (LwIP), 1-Wire, LIN |
-| **Wireless / IoT** | Wi-Fi 802.11, BLE 5.x, Zigbee, LoRa / LoRaWAN, NB-IoT / LTE-M, MQTT, CoAP, HTTP/S, WebSockets |
-
----
-
-## ⚙️ RTOS, Frameworks & Cloud
-
-| Category | Tools & Platforms |
-|----------|-------------------|
-| **RTOS** | FreeRTOS, Zephyr, ChibiOS, mbed OS |
-| **HAL / SDK** | STM32 HAL/LL, Arduino Core, ESP-IDF, CMSIS |
-| **IoT Cloud** | AWS IoT Core, Azure IoT Hub, Mosquitto, Node-RED, Home Assistant |
+| Category                     | Technologies                                           |
+| ---------------------------- | ------------------------------------------------------ |
+| **Runtime**                  | Node.js                                                |
+| **Languages**                | JavaScript (ES6+), TypeScript                          |
+| **Frameworks**               | Express.js                                             |
+| **APIs**                     | RESTful APIs, API Design, Middleware                   |
+| **Authentication**           | JWT, bcrypt                                            |
+| **Databases**                | MongoDB, Mongoose, MySQL, PostgreSQL                   |
+| **Security**                 | CORS, Helmet, Rate Limiting, Environment Variables     |
+| **Architecture**             | Clean Architecture, Clean Code, Modular Backend Design |
+| **Testing**                  | Jest, Supertest                                        |
+| **Queues & Background Jobs** | BullMQ, Redis, node-cron                               |
+| **AI Integration**           | Anthropic Claude API, Groq LLaMA API                   |
+| **Payments**                 | Stripe Test Webhooks                                   |
+| **Documentation & Testing**  | Postman, API Documentation                             |
 
 ---
 
-## 🛠️ Tools & IDEs
+## 🤖 Backend AI Engineering
 
-| Category | Tools |
-|----------|-------|
-| **Embedded IDEs** | Arduino IDE 2, PlatformIO, STM32CubeIDE, Keil µVision 5, MPLAB X, IAR, CCS, ESP-IDF |
-| **PCB Design** | KiCad 7, Altium Designer, EasyEDA, LTspice |
-| **Build & DevOps** | CMake, GNU Make, Git, GitHub Actions, Docker |
-| **Test Equipment** | Oscilloscope, Logic Analyzer, Multimeter / LCR Meter, Function Generator |
+I build backend systems that integrate modern AI capabilities into production-oriented applications.
+
+```text
+🧠 LLM Integration       → Claude API, Groq LLaMA API
+📊 Usage Metering        → Token & Cost Tracking
+💳 Billing               → Stripe Test Webhooks
+🔄 Background Jobs       → BullMQ & Redis
+🔐 Authentication       → JWT & bcrypt
+📦 API Development       → Node.js & Express.js
+🧪 Testing               → Jest & Supertest
+🏗️ Architecture         → Clean Architecture & Clean Code
+```
+
+---
+
+## 🛠️ Tools & DevOps
+
+| Category               | Tools                                       |
+| ---------------------- | ------------------------------------------- |
+| **Development**        | Node.js, Express.js, TypeScript, JavaScript |
+| **Databases**          | MongoDB, Mongoose, MySQL, PostgreSQL        |
+| **Testing**            | Jest, Supertest, Postman                    |
+| **Queues / Cache**     | Redis, BullMQ                               |
+| **Version Control**    | Git, GitHub, Git Flow                       |
+| **Containers**         | Docker                                      |
+| **CI/CD**              | GitHub Actions, CI/CD Fundamentals          |
+| **Deployment**         | Vercel, Render                              |
+| **Package Management** | npm                                         |
 
 ---
 
 ## 🧩 Key Specializations
 
-```
-📦 Firmware Architecture  →  Layered HAL / BSP / Application design patterns
-⚡ Low-Power Design       →  Sleep modes, dynamic clock scaling, wakeup triggers
-🔒 Embedded Security      →  Secure boot, TLS 1.3, hardware crypto engines
-🔄 OTA Updates            →  ESP-IDF OTA, MCUboot bootloader, AWS OTA
-📐 PCB Design             →  4-layer boards, impedance control, EMC compliance
-🧪 Unit Testing           →  Unity, CppUTest, Ceedling for embedded C
-📊 Signal Processing      →  ADC filtering, FFT on Cortex-M with CMSIS-DSP
+```text
+📦 Backend Architecture    →  Clean Architecture / Modular Design
+🚀 REST API Development   →  Node.js / Express.js
+🔐 Backend Security       →  JWT / bcrypt / Helmet / CORS
+🗄️ Database Systems       →  MongoDB / MySQL / PostgreSQL
+⚡ Async Processing       →  BullMQ / Redis / Background Jobs
+🧪 Automated Testing      →  Jest / Supertest
+🤖 AI Integration         →  Claude API / Groq LLaMA API
+💳 Billing Systems        →  Usage Metering / Stripe Webhooks
+🐳 DevOps Fundamentals    →  Docker / GitHub Actions
 ```
 
 ---
@@ -159,24 +170,25 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 
 ## 📋 Certifications Summary
 
-| # | Certification | Issuer | Year |
-|---|--------------|--------|------|
-| 1 | Using Computers & Mobile Devices | Cisco Networking Academy | 2026 |
-| 2 | Digital Awareness | Cisco Networking Academy | 2026 |
-| 3 | English for IT: Advice & Time Management | Cisco Networking Academy | 2026 |
-| 4 | C Programming Essentials | Cisco Networking Academy | 2026 |
-| 5 | Python Programming Essentials | Cisco Networking Academy | 2026 |
-| 6 | C Programming: From Basics to Mastery | Mahara-Tech | 2026 |
-| 7 | Introduction to IoT | Cisco Networking Academy | 2026 |
-| 8 | Embedded C: Hardware & Device Drivers | Mahara-Tech | 2026 |
-| 9 | Arduino Basics | M3aarf | 2026 |
-|10 | Git & GitHub for Beginners | IBM / freeCodeCamp | 2026 |
-|11 | Rust Programming | M3aarf | 2026 |
-|11 | Getting_Started_with_Cisco_Packet_Tracer | Cisco Networking Academy | 2026 |
-|12 | Web-Development-Fundamentals | IBM | 2026 |
-|13 | Node.js Bootcamp | Udemy | 2025 |
-|14 | Mastering TypeScript | Udemy | 2025 |
-|15 | Git And Github | Udemy | 2025 |
+| #  | Certification                            | Issuer                   | Year |
+| -- | ---------------------------------------- | ------------------------ | ---- |
+| 1  | Using Computers & Mobile Devices         | Cisco Networking Academy | 2026 |
+| 2  | Digital Awareness                        | Cisco Networking Academy | 2026 |
+| 3  | English for IT: Advice & Time Management | Cisco Networking Academy | 2026 |
+| 4  | C Programming Essentials                 | Cisco Networking Academy | 2026 |
+| 5  | Python Programming Essentials            | Cisco Networking Academy | 2026 |
+| 6  | C Programming: From Basics to Mastery    | Mahara-Tech              | 2026 |
+| 7  | Introduction to IoT                      | Cisco Networking Academy | 2026 |
+| 8  | Embedded C: Hardware & Device Drivers    | Mahara-Tech              | 2026 |
+| 9  | Arduino Basics                           | M3aarf                   | 2026 |
+| 10 | Git & GitHub for Beginners               | IBM / freeCodeCamp       | 2026 |
+| 11 | Rust Programming                         | M3aarf                   | 2026 |
+| 11 | Getting_Started_with_Cisco_Packet_Tracer | Cisco Networking Academy | 2026 |
+| 12 | Web-Development-Fundamentals             | IBM                      | 2026 |
+| 13 | Node.js Bootcamp                         | Udemy                    | 2025 |
+| 14 | Mastering TypeScript                     | Udemy                    | 2025 |
+| 15 | Git And Github                           | Udemy                    | 2025 |
+
 ---
 
 ## 🤝 Connect With Me
@@ -202,6 +214,6 @@ I am a passionate **Back-End Engineer & Embedded Systems / IoT Engineer** specia
 
 *"The closer you are to the hardware, the closer you are to reality."*
 
-⚡ **Built with dedication by Moamen — Embedded Systems & IoT Engineer** ⚡
+⚡ **Built with dedication by Moamen — Back-End Engineer | Node.js** ⚡
 
 </div>
